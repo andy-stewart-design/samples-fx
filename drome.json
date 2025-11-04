@@ -4,6 +4,7 @@
     "echo": ["reverb/echo.wav"],
     "muffler": ["reverb/muffler.wav"],
     "spring": ["reverb/spring.wav"],
-    "telephone": ["reverb/telephone.wav"]
+    "telephone": ["reverb/telephone.wav"],
+    "rmx16": ["reverb/rmx16-1.wav", "reverb/rmx16-2.wav"]
   }
 }
